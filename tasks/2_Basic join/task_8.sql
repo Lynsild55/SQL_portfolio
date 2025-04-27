@@ -7,6 +7,7 @@ group by v.customer_id;
 
 
 /*
+
 +-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
